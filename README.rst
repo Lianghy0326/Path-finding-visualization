@@ -1,7 +1,4 @@
-========================
-
 Path Finding Using Algorithms
-
 ========================
 
 Basic Information
