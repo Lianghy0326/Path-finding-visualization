@@ -12,10 +12,12 @@ In this project, we aim to explore and implement different pathfinding algorithm
 
 Problem to Solve
 =================
+
 The primary goal of this project is to implement various pathfinding algorithms, including A*, DFS, etc., and visualize the paths they generate.
 
 Prospective Users
 =================
+
 The prospective users of this project are researchers and developers who have requirements for pathfinding in large-scale environments.
 
 System Architecture
