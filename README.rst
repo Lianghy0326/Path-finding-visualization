@@ -6,10 +6,8 @@ Basic Information
 =================
 
 Github Repository: https://github.com/Lianghy0326/Path-finding-visualization
-
-Pathfinding is a fundamental problem in computer science and has numerous applications in various domains, including robotics, video games, and network routing. 
-The objective of pathfinding algorithms is to find the optimal path between two points in a given environment while considering obstacles, costs, and other constraints.
-In this project, we aim to explore and implement different pathfinding algorithms, such as A* (A-star), Depth-First Search (DFS), and possibly others, to address the diverse needs of users in path planning scenarios. Through this endeavor, we seek to provide researchers and developers with a versatile toolkit for efficiently navigating complex environments and finding optimal paths. Additionally, we will develop visualization tools to aid in understanding the behavior and performance of these algorithms.
+This program is designed to efficiently solve second-order homogeneous differential equations, 
+focusing on equations with constant coefficients, Legendre, and Cauchy-Euler forms.
 
 Problem to Solve
 =================
