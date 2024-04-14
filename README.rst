@@ -8,7 +8,8 @@ Basic Information
 Github Repository: https://github.com/Lianghy0326/Path-finding-visualization
 
 This program is designed to efficiently solve differential equations, 
-focusing on equations with constant coefficients, Legendre, and Cauchy-Euler forms.
+focusing on equations with constant coefficients, Legendre, 
+and Cauchy-Euler forms.
 
 Problem to Solve
 =================
